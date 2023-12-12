@@ -1,0 +1,8 @@
+html{
+  --black-bg-10:rgba(0,0,0,1);
+  --light-text-10:rgba(255,255,255,1);
+}
+body{
+  background: var(--black-bg-10);
+  color: var(--light-text-10);
+}
